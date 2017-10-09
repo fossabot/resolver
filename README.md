@@ -1,5 +1,6 @@
 # resolver 
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image] [![Coverage Status][coveralls-image]][coveralls-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fresolver.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fresolver?ref=badge_shield)
 
 Little module that helps with link resolving.
 
@@ -50,3 +51,6 @@ Copyright (c) 2015 Stefan Buck. Licensed under the MIT license.
 [daviddm-image]: https://david-dm.org/octo-linker/resolver
 [coveralls-url]: https://coveralls.io/r/octo-linker/resolver
 [coveralls-image]: https://coveralls.io/repos/octo-linker/resolver/badge.png
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fresolver.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fresolver?ref=badge_large)
